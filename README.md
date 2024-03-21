@@ -1,1 +1,1 @@
-# soroban_1
+# Stellar-Workshop-Template
